@@ -1,9 +1,9 @@
 ###  Oi , 🖐️ I'm Joseane .
  <div align="justify">  <p>
-👩‍💻 I’m currently learning Java, angular, and klotlin.<br>
-  ❤️I'm passionate about technology .
+👩‍💻I’m currently learning Java, angular, and kotlin.<br>
+❤️I'm passionate about technology .
  
-  Curiosity about me: <br> I Love tiny dogs 🐕 and Christmas 🎅.      
+>>Curiosity about me: <br> I Love tiny dogs 🐕 and Christmas 🎅.      
     
   </p>
   
