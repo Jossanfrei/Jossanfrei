@@ -8,9 +8,10 @@
   </p>
   
   <div style="display: inline_block">
-  <a href="https://github.com/Josssanfrei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josssanfrei&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josssanfrei&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/Jossanfrei">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jossanfrei&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jossanfrei&layout=compact&langs_count=7&theme=radical"/>
      <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
   
  
